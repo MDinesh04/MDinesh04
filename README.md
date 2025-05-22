@@ -93,9 +93,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<h3 align="left">✍️ Latest from My Blog</h3>
+
+<p align="left">
+  I often share insights, tutorials, and real-world learnings from my DevOps journey on Medium. Here are my latest posts:
+</p>
+
+<p align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mekadinesh04" alt="Latest Medium articles by Dinesh" />
+</p>
+
+<p align="center">
+  📚 <a href="https://medium.com/@mekadinesh04" target="_blank">Explore more on my Medium profile</a>
+</p>
+
 
 ###
 
